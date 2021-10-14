@@ -52,8 +52,16 @@ html {
    background-color:red; 
 }
 
+.one{
+  transform:translateX(495px) translateY(142px);
+  font-size:50px;
+  }
+.two{
+  transform:translateX(495px) translateY(142px);
+  font-size:50px;
+  }
 .three{
-    transform:translateX(650px);
+    transform:translateX(1185px);
     font-size:50px;
     }
 .four{
@@ -77,6 +85,19 @@ html {
     font-size:50px;
 }    
 .nine{
+    transform:translateX(740px);
+    font-size:50px;
+    }
+    
+.ten{
+    transform:translateX(495px) translateY(142px);
+    font-size:50px;
+    }
+.eleven{
+    transform:translateX(495px) translateY(142px);
+    font-size:50px;
+    }
+.twelve{
     transform:translateX(495px) translateY(142px);
     font-size:50px;
     }
